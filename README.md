@@ -6,7 +6,7 @@
 <br>
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 # About Rank
@@ -17,10 +17,9 @@
 |  AAA, AA, A  | You will reach this rank if you do your best. Let's aim here first.  |
 |  B, C  | You are currently making good progress. Let's aim a bit higher.  |
 | SECRET | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
-<p>
-I have rare SECRET Trophie! 
-<img src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/>
-</p>
+<p>I have rare SECRET Trophie!</p>
+<p><img width="200" height="200" src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/></p>
+
 <!--
 **AlonaVladymyrovaTrinity/AlonaVladymyrovaTrinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
