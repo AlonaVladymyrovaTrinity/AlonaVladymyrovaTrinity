@@ -6,7 +6,7 @@
 <br>
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&title=-Issuers" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&title=Issuers&theme=algolia" />
 </p>
 
 <!--
