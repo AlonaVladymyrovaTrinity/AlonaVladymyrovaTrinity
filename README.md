@@ -3,7 +3,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=000EBAC6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+7+years+of+experience+in+the+IT+field.;I'm+looking+for+a+position+as+a+front-end+web+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills." alt="Typing SVG" /></a>
 </p>
-
+<br>
+<p align="center">https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia</p>
 <!--
 **AlonaVladymyrovaTrinity/AlonaVladymyrovaTrinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
