@@ -10,8 +10,8 @@
 - 💞️ I’m looking for a full-time job as a Front End Web Developer 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alona-vladymyrova/">LinkedIn</a>
 - 🎉 Fun Facts:
-- I like snowboarding
-- I have a cat on my lap 🐈‍⬛ 
+  * I like snowboarding
+  * I have a cat on my lap 🐈‍⬛ 
 <br>
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
@@ -28,6 +28,9 @@
 | SECRET | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
 <p>I have rare SECRET Trophie!</p>
 <p><img width="200" height="200" src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/></p>
+
+
+
 
 <!--
 **AlonaVladymyrovaTrinity/AlonaVladymyrovaTrinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
