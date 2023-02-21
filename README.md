@@ -15,7 +15,7 @@
 <br>
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
 </p>
 
 # About Rank
@@ -28,6 +28,10 @@
 | SECRET | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
 <p>I have rare SECRET Trophie! 🏆 🎉 </p>
 <p><img width="200" height="200" src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/></p>
+
+<p align="center">
+  <img src=https://www.codewars.com/users/AlonaVladymyrova/badges/large/>
+</p>
 
 
 
