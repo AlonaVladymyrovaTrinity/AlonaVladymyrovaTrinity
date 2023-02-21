@@ -4,11 +4,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+7+years+of+experience+in+the+IT+field.;I'm+looking+for+a+position+as+a+front-end+web+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills." alt="Typing SVG" /></a>
 </p>
 
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank">Alona Vladymyrova</a>, a frontend developer and a software engineer
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer and a software engineer
 - 👩‍💻 I’m interested in React, Angula JS, and all things JavaScript
-- 🎓 I’m currently honing my skills in React at <a href="https://codethedream.org/" target="_blank">Code the Dream School</a> <!-- https://github.com/Code-the-Dream-School -->
+- 🎓 I’m currently honing my skills in React at <a href="https://codethedream.org/" target="_blank" rel="noopener noreferrer">Code the Dream School</a> <!-- https://github.com/Code-the-Dream-School -->
 - 🏢 I’m looking for a full-time job as a Front End Web Developer 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 🎉 Fun Facts:
   * I like snowboarding 🏂
   * I have a cat on my lap 🐈‍⬛ 
