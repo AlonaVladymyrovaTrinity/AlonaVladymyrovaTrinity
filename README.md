@@ -30,7 +30,9 @@
 <p><img width="200" height="200" src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/></p>
 
 # Codewars
-<p><a href="www.codewars.com/r/aDsx6g">Codewars</a> is an open source community of people with common interest and passion for coding.
+<p>
+<a href="www.codewars.com/r/aDsx6g">Codewars</a> is a platform that helps you learn, train, and improve your coding skills by solving programming tasks of many types and difficulty levels. 
+<a href="www.codewars.com/r/aDsx6g">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
 and sparring with other programmers in code snippets (called kumite). 
 Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> framework.<br><br>
