@@ -31,7 +31,6 @@
 
 # Codewars
 <p>
-<a href="www.codewars.com/r/aDsx6g">Codewars</a> is a platform that helps you learn, train, and improve your coding skills by solving programming tasks of many types and difficulty levels. 
 <a href="www.codewars.com/r/aDsx6g">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
 and sparring with other programmers in code snippets (called kumite). 
