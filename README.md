@@ -38,7 +38,13 @@ Link to my profile:<br>
 <p align="left">
   <img src=https://www.codewars.com/users/AlonaVladymyrova/badges/large/>
 </p>
-
+<p>
+Rank
+The rank level reflects your experience and knowledge you have gained by solving kata. You start at the lowest rank of 8 kyū, and each correct solution brings you closer to a higher rank. You can see your rank progress toward the next level on your profile page.
+Ranks are used to indicate the proficiency of users and the difficulty of Kata. 
+ 
+ <b>8 Kyu to 1 Kyu</b>
+</p>
 
 
 
