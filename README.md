@@ -11,7 +11,7 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 🎉 Fun Facts:
   * I like snowboarding 🏂
-  * I have a cat on my lap 🐈‍⬛ 
+  * I have a cat 🐈‍⬛ 
 <br>
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
