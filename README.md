@@ -5,11 +5,16 @@
 </p>
 -->
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer and a software engineer
+
 - 👩‍💻 I’m interested in html, css, JavaScript, React
-- 🎓 I’m currently honing my skills in React  <!--at <a href="https://codethedream.org/" target="_blank" rel="noopener noreferrer">Code the Dream School</a>  -->
+
+- 🎓 I’m currently honing my skills in React  
+<!--at <a href="https://codethedream.org/" target="_blank" rel="noopener noreferrer">Code the Dream School</a>  -->
 <!-- https://github.com/Code-the-Dream-School -->
 - 🏢 I’m looking for a full-time job as a Front End Web Developer 
+
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
 - 🎉 Fun Facts:
 
   * I like snowboarding 🏂
