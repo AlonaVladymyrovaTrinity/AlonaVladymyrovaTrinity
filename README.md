@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+7+years+of+experience+in+the+IT+field.;I'm+looking+for+a+position+as+a+front-end+web+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills." alt="Typing SVG" /></a>
 </p>
 -->
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer and a software engineer
+- 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer
 
 - 👩‍💻 I’m interested in html, css, JavaScript, React
 
@@ -34,7 +34,7 @@
 |  AAA, AA, A  | You will reach this rank if you do your best. Let's aim here first.  |
 |  B, C  | You are currently making good progress. Let's aim a bit higher.  |
 | SECRET | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
-<p>I have rare SECRET Trophie! 🏆 🎉 </p>
+<p>I have rare SECRET Trophie - LongTimeUser! 🏆 🎉 </p>
 <p><img width="200" height="200" src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/></p>
 
 # Codewars
