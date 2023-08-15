@@ -26,7 +26,7 @@
 <p>Check out my Portfolio: <a href="https://alona.dev/">Portfolio</a></p>
 <hr>
 
-[![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity)](https://github.com/anuraghazra/github-readme-stats)
+[![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=onedark)
 
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
