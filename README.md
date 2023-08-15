@@ -21,9 +21,9 @@
   * I like snowboarding 🏂
   * I have a cat 🐈‍⬛ 
 <br>
-Feel free to reach out🌎 [Email:](alona.vladymyrova@gmail.com)
-[Check out my LinkedIn:](https://www.linkedin.com/in/alona-vladymyrova/)
-[Check out my Portfolio:](https://alona.dev/)
+Feel free to reach out🌎 <a href="alona.vladymyrova@gmail.com">Email</a>
+Check out my LinkedIn:<a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a>
+Check out my Portfolio:<a href="https://alona.dev/">Portfolio</a>
 
 Abou's GitHub stats Top Langs
 <p align="center">🏆 GitHub Trophies</p>
