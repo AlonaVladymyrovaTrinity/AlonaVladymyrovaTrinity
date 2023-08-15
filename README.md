@@ -30,6 +30,7 @@
 [![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)
+
 </p>
 
 <p align="center">🏆 GitHub Trophies</p>
