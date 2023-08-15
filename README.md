@@ -21,17 +21,14 @@
   * I like snowboarding 🏂
   * I have a cat 🐈‍⬛ 
 <br>
-<p>Feel free to reach out🌎 <a href="alona.vladymyrova@gmail.com">Email</a></p>
-<p>Check out my LinkedIn: <a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a></p>
-<p>Check out my Portfolio: <a href="https://alona.dev/">Portfolio</a></p>
+##Feel free to reach out🌎 [Email](mailto:alona.vladymyrova@gmail.com)
+Check out my LinkedIn: <a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a><br>
+Check out my Portfolio: <a href="https://alona.dev/">Portfolio</a>
 <hr>
-<p dir="auto">
+![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)]
+(https://github.com/anuraghazra/github-readme-stats)
  
-[![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)
-
-</p>
 
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
