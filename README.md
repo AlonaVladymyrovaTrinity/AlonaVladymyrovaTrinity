@@ -21,6 +21,11 @@
   * I like snowboarding 🏂
   * I have a cat 🐈‍⬛ 
 <br>
+Feel free to reach out🌎 [Email:](alona.vladymyrova@gmail.com)
+[Check out my LinkedIn:](https://www.linkedin.com/in/alona-vladymyrova/)
+[Check out my Portfolio:](https://alona.dev/)
+
+Abou's GitHub stats Top Langs
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
