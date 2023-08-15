@@ -1,6 +1,6 @@
 <h1 align="center" >Alona Vladymyrova</h1>
 
-##Feel free to reach out🌎 [Email](mailto:alona.vladymyrova@gmail.com)
+<b>Feel free to reach out🌎 [Email](mailto:alona.vladymyrova@gmail.com)</b>
 
 Check out my LinkedIn: <a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a><br>
 Check out my Portfolio: <a href="https://alona.dev/">Portfolio</a>
@@ -23,8 +23,7 @@ Check out my Portfolio: <a href="https://alona.dev/">Portfolio</a>
 - 🎉 Fun Facts:
 
   * I like snowboarding 🏂
-  * I have a cat 🐈‍⬛ 
-<br>
+  * I have a cat 🐈‍⬛ <br>
 <hr>
 
 ![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave)
