@@ -27,9 +27,9 @@
 <hr>
 <p dir="auto">
 [![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)
 </p>
+
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
