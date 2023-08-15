@@ -28,7 +28,6 @@ Check out my Portfolio: <a href="https://alona.dev/">Portfolio</a>
 
 ![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)
-(https://github.com/anuraghazra/github-readme-stats)
  
 
 <p align="center">🏆 GitHub Trophies</p>
