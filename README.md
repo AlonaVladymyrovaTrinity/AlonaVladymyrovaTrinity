@@ -4,11 +4,11 @@
 
 🌎 <b>Check out my LinkedIn:</b> <a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a><br>
 💼 <b>Check out my Portfolio:</b> <a href="https://alona.dev/">www.alona.dev</a>
-<!--
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+7+years+of+experience+in+the+IT+field.;I'm+looking+for+a+position+as+a+front-end+web+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills." alt="Typing SVG" /></a>
 </p>
--->
+
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer
 - 😎 I am continuously building front-end applications with React that are scalable, performant, and accessible.
 <!-- https://github.com/Code-the-Dream-School -->
