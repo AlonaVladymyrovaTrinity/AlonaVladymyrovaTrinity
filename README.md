@@ -8,7 +8,10 @@
 🌎 <b>Check out my LinkedIn:</b> <a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a><br>
 💼 <b>Check out my Portfolio:</b> <a href="https://alona.dev/">www.alona.dev</a>
 
-- 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer
+<!-- - 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer  -->
+- Learn more <a href="https://alona.dev/about" target="_blank" rel="noopener noreferrer">about me</a>
+- My <a href="https://github.com/AlonaVladymyrovaTrinity/portfolio/blob/main/src/assets/Resume_Alona_Vladymyrova_07_19_23.pdf" target="_blank" rel="noopener noreferrer"> Resume</a>
+- My <a href="www.codewars.com/r/aDsx6g" target="_blank" rel="noopener noreferrer">Codewars</a>
 - 😎 I am continuously building front-end applications with React that are scalable, performant, and accessible.
 <!-- https://github.com/Code-the-Dream-School -->
 - 🏢 Strong Front-End Web Development skills, eager to contribute as a valuable team member in a full-time role.
@@ -45,10 +48,10 @@
 
 # Codewars
 <p>
-<a href="www.codewars.com/r/aDsx6g">Codewars</a> is an open source community of people with common interest and passion for coding.
+<a href="www.codewars.com/r/aDsx6g" target="_blank" rel="noopener noreferrer">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
 and sparring with other programmers in code snippets (called kumite). 
-Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> framework.<br><br>
+Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noopener noreferrer">TDD</a> framework.<br><br>
 Link to my profile:<br>
 <p align="left">
   <img src=https://www.codewars.com/users/AlonaVladymyrova/badges/large/>
