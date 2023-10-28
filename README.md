@@ -57,6 +57,8 @@ Feel free to explore my repositories, projects, and contributions. If you have a
 
 <hr>
 
+<h3 align="left">📊 My GitHub Stats</h3>
+
 ![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)
  
