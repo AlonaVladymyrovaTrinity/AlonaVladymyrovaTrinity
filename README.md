@@ -85,7 +85,7 @@ and sparring with other programmers in code snippets (called kumite).
 Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noopener noreferrer">TDD</a> framework.<br><br>
 Link to my profile:<br>
 <p align="left">
-  <img src=https://www.codewars.com/users/AlonaVladymyrova/badges/large/>
+  <a href="https://www.codewars.com/users/AlonaVladymyrova" target="_blank" rel="noopener noreferrer"><img src=https://www.codewars.com/users/AlonaVladymyrova/badges/large/></a>
 </p>
 <p>
 Rank
