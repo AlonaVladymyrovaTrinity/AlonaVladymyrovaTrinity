@@ -60,13 +60,14 @@ Feel free to explore my repositories, projects, and contributions. If you have a
 ![Alona's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonaVladymyrovaTrinity&show_icons=true&theme=synthwave&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonaVladymyrovaTrinity&theme=synthwave)
  
+<hr>
 
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
 </p>
 
-# About Rank
+## About GitHub Trophies Rank
 
 |  Rank  |  Description  |
 | ---- | ---- |
@@ -77,7 +78,10 @@ Feel free to explore my repositories, projects, and contributions. If you have a
 <p>I have rare SECRET Trophie - LongTimeUser! 🏆 🎉 </p>
 <p><img width="200" height="200" src=https://media1.tenor.co/images/e613a023bf913fb16f6e14d517d04440/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=24678746/></p>
 
-# Codewars
+<hr>
+
+## About Codewars
+
 <p>
 <a href="https://codewars.com" target="_blank" rel="noopener noreferrer">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
