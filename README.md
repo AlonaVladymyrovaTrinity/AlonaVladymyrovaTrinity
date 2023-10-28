@@ -47,7 +47,7 @@
 - [Resume (PDF)](https://alona.dev/static/media/Resume_Alona_Vladymyrova_07_19_23.b44cb91f0f22a6b9d4cd.pdf) - Check out my detailed resume to learn about my skills and experience.
 
 💪 **Coding Challenges:**
-- [Codewars Profile](https://codewars.com/r/aDsx6g) - Challenge yourself with my coding solutions on Codewars!
+- [Codewars Profile](https://www.codewars.com/users/AlonaVladymyrova) - Challenge yourself with my coding solutions on Codewars!
 
 Feel free to explore my repositories, projects, and contributions. If you have any questions or want to collaborate, don't hesitate to reach out. Let's build amazing things together! 🚀
 <hr>
@@ -79,7 +79,7 @@ Feel free to explore my repositories, projects, and contributions. If you have a
 
 # Codewars
 <p>
-<a href="https://codewars.com/r/aDsx6g" target="_blank" rel="noopener noreferrer">Codewars</a> is an open source community of people with common interest and passion for coding.
+<a href="https://codewars.com" target="_blank" rel="noopener noreferrer">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
 and sparring with other programmers in code snippets (called kumite). 
 Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank" rel="noopener noreferrer">TDD</a> framework.<br><br>
