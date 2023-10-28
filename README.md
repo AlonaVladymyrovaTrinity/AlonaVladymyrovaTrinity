@@ -3,22 +3,52 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+2+years+of+experience+in+front-end+web+development.;I'm+looking+for+a+position+as+a+front-end+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills." alt="Typing SVG" /></a>
 </p>
 
-<b>Feel free to reach out:  📫 [Email](mailto:alona.vladymyrova@gmail.com)</b>
+<!-- <b>Feel free to reach out:  📫 [Email](mailto:alona.vladymyrova@gmail.com)</b>
 
 🌎 <b>Check out my LinkedIn:</b> <a href="https://www.linkedin.com/in/alona-vladymyrova/">www.linkedin.com/in/alona-vladymyrova</a><br>
 💼 <b>Check out my Portfolio:</b> <a href="https://alona.dev/">www.alona.dev</a>
 
 <!-- - 👋 Hi, I’m <a href="https://www.linkedin.com/in/alona-vladymyrova/" target="_blank" rel="noopener noreferrer">Alona Vladymyrova</a>, a frontend developer  -->
+
 - Learn more <a href="https://alona.dev/about" target="_blank" rel="noopener noreferrer">about me</a>
-- My <a href="https://github.com/AlonaVladymyrovaTrinity/portfolio/blob/main/src/assets/Resume_Alona_Vladymyrova_07_19_23.pdf" target="_blank" rel="noopener noreferrer"> Resume</a>
-- My <a href="www.codewars.com/r/aDsx6g" target="_blank" rel="noopener noreferrer">Codewars</a>
+- My <a href="https://alona.dev/static/media/Resume_Alona_Vladymyrova_07_19_23.b44cb91f0f22a6b9d4cd.pdf" target="_blank" rel="noopener noreferrer"> Resume</a>
+- My <a href="www.codewars.com/r/aDsx6g" target="_blank" rel="noopener noreferrer">Codewars</a> -->
 - 😎 I am continuously building front-end applications with React that are scalable, performant, and accessible.
-<!-- https://github.com/Code-the-Dream-School -->
 - 🏢 Strong Front-End Web Development skills, eager to contribute as a valuable team member in a full-time role.
 - 🎉 Fun Facts:
 
   * I like snowboarding 🏂
   * I have a cat 🐈‍⬛ <br>
+<!-- https://github.com/Code-the-Dream-School -->
+<!-- # Hi, I'm Alona Vladymyrova -->
+
+👋 Welcome to my GitHub profile! I'm a passionate frontend developer, and I'm excited to share my work and projects with you.
+
+🏢 **Skills and Career Aspirations:**
+- Strong Front-End Web Development skills.
+- Eager to contribute as a valuable team member in a full-time role.
+  
+📫 **Contact Me:**
+- Email: [alona.vladymyrova@gmail.com](mailto:alona.vladymyrova@gmail.com)
+
+🌐 **Connect with Me:**
+- [LinkedIn](https://www.linkedin.com/in/alona-vladymyrova) - Let's connect and stay in touch!
+- [Portfolio](https://alona.dev) - Explore my portfolio to see what I've been working on.
+
+📄 **Learn More About Me:**
+- [About Me](https://alona.dev/about) - Get to know me better and my journey as a developer.
+  
+🎉 **Fun Facts:**
+- I like snowboarding 🏂.
+- I have a cat 🐈‍⬛.
+
+📑 **My Resume:**
+- [Resume (PDF)](https://alona.dev/static/media/Resume_Alona_Vladymyrova_07_19_23.b44cb91f0f22a6b9d4cd.pdf) - Check out my detailed resume to learn about my skills and experience.
+
+💪 **Coding Challenges:**
+- [Codewars Profile](www.codewars.com/r/aDsx6g) - Challenge yourself with my coding solutions on Codewars!
+
+Feel free to explore my repositories, projects, and contributions. If you have any questions or want to collaborate, don't hesitate to reach out. Let's build amazing things together! 🚀
 <hr>
 
 <h3 align="left">My key skills:</h3>
