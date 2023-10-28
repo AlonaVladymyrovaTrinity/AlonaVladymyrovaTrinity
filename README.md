@@ -62,12 +62,12 @@ Feel free to explore my repositories, projects, and contributions. If you have a
  
 <hr>
 
-<p align="center">🏆 GitHub Trophies</p>
+<h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlonaVladymyrovaTrinity&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
 </p>
 
-## About GitHub Trophies Rank
+<h3 align="left">About GitHub Trophies Rank</h3>
 
 |  Rank  |  Description  |
 | ---- | ---- |
@@ -80,7 +80,7 @@ Feel free to explore my repositories, projects, and contributions. If you have a
 
 <hr>
 
-## About Codewars
+<h3 align="left">About Codewars</h3>
 
 <p>
 <a href="https://codewars.com" target="_blank" rel="noopener noreferrer">Codewars</a> is an open source community of people with common interest and passion for coding.
