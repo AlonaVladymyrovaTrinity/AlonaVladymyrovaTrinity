@@ -44,7 +44,7 @@
 - I have a cat 🐈‍⬛.
 
 📑 **My Resume:**
-- [Resume (PDF)](https://alona.dev/static/media/Resume_Alona_Vladymyrova_07_19_23.b44cb91f0f22a6b9d4cd.pdf) - Check out my detailed resume to learn about my skills and experience.
+- [Resume (PDF)](https://www.alona.dev/static/media/Resume_Alona_Vladymyrova%2003_09_24.b57da52844c01ce84dd6.pdf) - Check out my detailed resume to learn about my skills and experience.
 
 💪 **Coding Challenges:**
 - [Codewars Profile](https://www.codewars.com/users/AlonaVladymyrova) - Challenge yourself with my coding solutions on Codewars!
