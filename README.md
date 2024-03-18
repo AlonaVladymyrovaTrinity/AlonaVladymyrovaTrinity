@@ -19,8 +19,9 @@
 <!-- https://github.com/Code-the-Dream-School -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+2+years+of+experience+in+front-end+web+development.;I'm+looking+for+a+position+as+a+front-end+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+2+years+of+experience+in+front-end+web+development.;my+key+skills+is+HTML%2C+CSS%2C+JavaScript%2C+and+React." alt="Typing SVG" /></a>
 </p>
+<!-- I'm+looking+for+a+position+as+a+front-end+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills. -->
 <!-- # Hi, I'm Alona Vladymyrova -->
 
 👋 Welcome to my GitHub profile! I'm a passionate frontend developer, and I'm excited to share my work and projects with you.
