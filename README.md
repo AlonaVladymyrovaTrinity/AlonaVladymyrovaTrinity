@@ -18,14 +18,12 @@
   * I have a cat 🐈‍⬛ <br> -->
 <!-- https://github.com/Code-the-Dream-School -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=AlonaVladymyrovaTrinity&label=Profile%20views&color=0e75b6&style=flat" alt="AlonaVladymyrovaTrinity" /> </p>
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+2+years+of+experience+in+front-end+web+development.;My+key+skills+is+HTML%2C+CSS%2C+JavaScript%2C+and+React." alt="Typing SVG" /></a>
 </p>
 <!-- I'm+looking+for+a+position+as+a+front-end+developer;where+I+can+apply+my+HTML%2C+CSS%2C+JavaScript%2C+and+React+skills. -->
 <!-- # Hi, I'm Alona Vladymyrova -->
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AlonaVladymyrovaTrinity&label=Profile%20views&color=0e75b6&style=flat" alt="AlonaVladymyrovaTrinity" /> </p>
 👋 Welcome to my GitHub profile! I'm a passionate frontend developer, and I'm excited to share my work and projects with you.
 
 🏢 **Skills and Career Aspirations:**
@@ -104,6 +102,7 @@ Ranks are used to indicate the proficiency of users and the difficulty of Kata.
  <b>8 Kyu to 1 Kyu</b>
 </p>
 
+<!--<p><a href="https://www.buymeacoffee.com/AlonaVladymyrova"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="AlonaVladymyrova" /></a></p> -->
 
 
 <!--
