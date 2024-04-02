@@ -18,6 +18,8 @@
   * I have a cat 🐈‍⬛ <br> -->
 <!-- https://github.com/Code-the-Dream-School -->
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AlonaVladymyrovaTrinity&label=Profile%20views&color=0e75b6&style=flat" alt="AlonaVladymyrovaTrinity" /> </p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=25&duration=4500&pause=50&color=58a6ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi!+%F0%9F%91%8B+My+name+is+Alona.;I+have+2+years+of+experience+in+front-end+web+development.;My+key+skills+is+HTML%2C+CSS%2C+JavaScript%2C+and+React." alt="Typing SVG" /></a>
 </p>
